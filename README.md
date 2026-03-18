@@ -62,6 +62,6 @@ Lógica de CRUD básica.
 
 Organização de arquivos e boas práticas para projetos web.
 
-🔗 Observações
+  Observações
 
 Este projeto está em evolução, com funcionalidades de edição e exclusão planejadas para próximas versões.
