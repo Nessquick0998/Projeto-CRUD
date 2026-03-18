@@ -16,7 +16,7 @@ CSS (opcional)
 
 XAMPP (servidor local)
 
-⚙ Funcionalidades atuais
+ Funcionalidades atuais
 
 Cadastrar usuário – Inserir nome e email.
 
