@@ -12,7 +12,7 @@ MySQL
 
 HTML
 
-CSS (opcional)
+CSS 
 
 XAMPP (servidor local)
 
@@ -32,15 +32,6 @@ Validação de dados – Garantir que nomes e emails sejam válidos.
 
 Melhoria do layout – Design mais bonito usando CSS/Bootstrap.
 
- Estrutura do projeto
-crud-usuarios/
-├── conexao.php      # Conexão com banco de dados
-├── index.php        # Lista usuários
-├── cadastrar.php    # Formulário de cadastro
-├── salvar.php       # Salva usuários no banco
-├── editar.php       # Em desenvolvimento
-├── excluir.php      # Em desenvolvimento
-└── style.css        # Estilos (opcional)
  Como rodar
 
 Instale o XAMPP e ligue Apache e MySQL.
