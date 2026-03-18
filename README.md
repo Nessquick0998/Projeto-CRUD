@@ -1,10 +1,10 @@
- CRUD de Usuários em PHP (em desenvolvimento)
+## CRUD de Usuários em PHP (em desenvolvimento)
 
 Este projeto é um sistema CRUD (Create, Read, Update, Delete) de usuários, desenvolvido com PHP e MySQL. Permite cadastrar e visualizar usuários, com funcionalidades de edição e exclusão em desenvolvimento.
 
 O objetivo do projeto é praticar backend, banco de dados e integração com front-end, enquanto construo uma base sólida para projetos mais complexos.
 
- Tecnologias utilizadas
+## Tecnologias utilizadas
 
 PHP
 
@@ -16,13 +16,13 @@ CSS
 
 XAMPP (servidor local)
 
- Funcionalidades atuais
+## Funcionalidades atuais
 
 Cadastrar usuário – Inserir nome e email.
 
 Listar usuários – Exibir todos os usuários cadastrados.
 
-  Funcionalidades futuras
+##  Funcionalidades futuras
 
 Editar usuário – Permitir alterar os dados de um usuário existente.
 
@@ -32,7 +32,7 @@ Validação de dados – Garantir que nomes e emails sejam válidos.
 
 Melhoria do layout – Design mais bonito usando CSS/Bootstrap.
 
- Como rodar
+ ## Como rodar
 
 Instale o XAMPP e ligue Apache e MySQL.
 
@@ -53,6 +53,6 @@ Lógica de CRUD básica.
 
 Organização de arquivos e boas práticas para projetos web.
 
-  Observações
+##  Observações
 
 Este projeto está em evolução, com funcionalidades de edição e exclusão planejadas para próximas versões.
